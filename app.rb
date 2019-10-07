@@ -6,4 +6,8 @@ class App < Sinatra::Base
   
   end
   
+  get '/name'
+  
+  end
+  
 end
