@@ -14,4 +14,8 @@ class App < Sinatra::Base
   
   end
   
+    get '/hometown'
+  
+  end
+  
 end
